@@ -1,2 +1,2 @@
-# deep_learning 
+# deep_learning_with_django_web_services
 Tensorflow 物件偵測應用範例
