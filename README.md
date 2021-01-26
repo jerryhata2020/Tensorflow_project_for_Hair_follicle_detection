@@ -1,2 +1,2 @@
-# deep_learning
-深度學習服務應用範例
+# deep_learning 
+Tensorflow 物件偵測應用範例
