@@ -1,2 +1,2 @@
-# deep_learning_with_django_web_services
-Tensorflow 物件偵測應用範例
+# Tensorflow_DL_object_detection_webservice_platform_with_Restful_API_using_Django_in_Python
+Tensorflow 物件偵測服務API實作範例
