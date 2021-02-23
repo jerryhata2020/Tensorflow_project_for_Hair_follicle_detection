@@ -1,3 +1,5 @@
 # Tensorflow_DL_object_detection_webservice_platform_with_Restful_API_using_Django_in_Python
-Tensorflow 物件偵測服務API實作範例
+
+Tensorflow 物件偵測服務API實作範例。
+
 以頭皮檢測應用為例，以追蹤頭皮毛囊(hair follicle)位置之frozen_inference_graph.pb為推論核心，建構可計算頭皮影像上的毛囊位置與毛髮密度的web-service平台。
