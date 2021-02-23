@@ -1,2 +1,3 @@
 # Tensorflow_DL_object_detection_webservice_platform_with_Restful_API_using_Django_in_Python
 Tensorflow 物件偵測服務API實作範例
+以頭皮檢測應用為例，以追蹤頭皮毛囊位置之
